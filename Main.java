@@ -21,6 +21,7 @@ public class Main {
             System.out.println("2. Buscar una tarea.");
             System.out.println("3. Eliminar una tarea.");
             System.out.println("4. Mostrar la tabla de tareas.");
+            System.out.println("5. Salir.");
             do {
                 valido = false;
                 try {
